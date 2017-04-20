@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizza Bounce!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear">Clear</string>
+    <string name="help">What?</string>
+    <string name="help_text">
+        Fling the pizzas around to your heart\'s content! Tap an empty space to create a new pizza, or tap "Clear" to remove all pizzas from the screen.
+    </string>
+</resources>
